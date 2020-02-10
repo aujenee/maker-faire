@@ -1,0 +1,38 @@
+CSS Style Sheet
+
+<head>
+<style>
+h1 {
+    color:#897960; 
+    font-size: 500px;
+    font-family: 'Playfair Display', serif;
+    
+}
+
+h2 {
+    color: #e0e0e0;
+    text-decoration: ;
+    font-family: 
+
+}
+
+h3 {
+    color: #94b998;
+    font-family: 
+    font-size: 18px;
+}
+
+p {
+    text-align: left;
+    font-family: ;
+    font-size: 16px;
+    }
+
+body {
+    background-color:#;  
+    font-family: serif;
+    font-size: 16px;
+    text-align: left; 
+}
+ 
+</style> 
